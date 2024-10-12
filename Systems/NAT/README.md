@@ -9,7 +9,11 @@ Some instructions:
 
     `chmod +x <name-of-the-script>.sh` 
 
-- Most of the commands need root privileges. Please be sure to use it. In addition, the scripts need to be run in a certain order (they build off each other), and need to be run on specfic terminal instances, as mentioned below. Beware! :)
+- Most of the commands need root privileges. Please be sure to use it. In addition, the scripts need to be run in a certain order (they build off each other), and need to be run on specfic terminal instances, as mentioned below. Beware!
+
+- I have attempted all the bonuses, have a look!
+
+- Any/all feedback is appreciated :) 
 
 # The Topology
 
