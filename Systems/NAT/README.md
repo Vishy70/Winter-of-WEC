@@ -111,7 +111,9 @@ You should see done, finally.
     
     `ping 1.1.1.1`. 
 
-You should see that the ICMPs would have successfully reached and returned.
+You should see that the ICMPs would have successfully reached and returned, like below:
+
+![Router Interfaces](./Images/Masquerading.png)
 
 # Port Forwarding
 One of the bonus tasks mentioned was to configure a setup so that hosts from the internet could communicate with our **clientt**, as if it was a web server. The current masquerading setup doesn't expose the subnet (which is good), nor does it handle redirecting any externel connections to the **client**. To fix this, I use the concept of **port forwarding**. In addition, we setup a simple 
